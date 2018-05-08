@@ -1,0 +1,36 @@
+{
+  "name": "cordova-plugin-internet-status",
+  "version": "1.0.1",
+  "description": "Cordova Plugin Internet Status",
+  "cordova": {
+    "id": "cordova-plugin-internet-status",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slkerndnme/cordova-plugin-internet-status.git"
+  },
+  "keywords": [
+    "cordova",
+    "network",
+    "internet",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.6.0"
+    }
+  ],
+  "author": "slkerndnme",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/slkerndnme/cordova-plugin-internet-status/issues"
+  },
+  "homepage": "https://github.com/slkerndnme/cordova-plugin-internet-status#readme"
+}
